@@ -1,0 +1,11 @@
+[user]
+	name = Kris Burton
+	email = burton.kris@outlook.com
+[colour]
+	ui = auto
+[core]
+	editor = C:/webDev/notepad++/notepad++.exe
+	autocrfl = true
+	autocrlf = true
+[winUpdater]
+	recentlySeenVersion = 2.18.0.windows.1
