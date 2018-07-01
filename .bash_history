@@ -322,3 +322,13 @@ git log
 clear
 git clone https://github.com/udacity/asteroids.git
 exit
+https://github.com/udacity/asteroids.git#
+exit
+exit
+projects
+dir
+~
+cd ~
+dir
+clear
+exit
