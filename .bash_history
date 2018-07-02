@@ -332,3 +332,17 @@ cd ~
 dir
 clear
 exit
+git add .
+git status
+git commit -m "updated files from LF to CRLF, add usernameTest.sh#"
+git status
+git add .
+git commit -m "updated files from LF to CRLF, add usernameTest.sh#"
+git status
+downloads
+fir
+dir
+projects
+~
+cd ~
+exit
