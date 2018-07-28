@@ -351,3 +351,44 @@ downloads
 exit
 downloads
 exit
+git status
+git add .
+git commit -m "moved custom commmands from .bashrc to customDirectories.sh for better file flow"
+clear
+git status
+exit
+adb reboot bootloader
+adb devices
+clear
+bash
+exit
+adb push Z:\Software\Android_Stuff\open_gapps-arm-8.1-nano-20180705.zip /data/local/tmp/open_gapps-arm-8.1-nano-20180705.zip
+adb push Z:/Software/Android_Stuff/open_gapps-arm-8.1-nano-20180705.zip /data/local/tmp/open_gapps-arm-8.1-nano-20180705.zip
+adb push Z:/Software/Android_Stuff/open_gapps-arm-8.1-nano-20180705.zip /data/local/tmp/open_gapps-arm-8.1-nano-20180705.zip
+projects
+git status
+git push origin master
+git pull origin master
+git fetch
+git pull origin master
+git push origin master
+exit
+cd ~
+cd projects
+cd Projects
+exit
+cd projests
+cd projects
+ls -a
+~
+cd #
+cd ~
+clear
+projects
+downlaods
+downloads
+cd ./
+cd ~
+~
+clear
+exit
