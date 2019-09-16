@@ -392,3 +392,26 @@ cd ~
 ~
 clear
 exit
+#
+~
+~
+~
+git home
+git --help
+pwd
+~
+cd ~
+cd~
+pwd
+git -working--tree
+git dir
+git --help
+projecst
+projects
+dir
+JavaScript
+cd JavaScript/
+dir
+q
+quit
+exit
