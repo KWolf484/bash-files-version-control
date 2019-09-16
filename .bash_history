@@ -415,3 +415,4 @@ dir
 q
 quit
 exit
+dir
